@@ -4,6 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=red)
 
+![image](https://github.com/Autinfit/Autinfit/assets/155406623/1f3584bb-f6fe-47fd-83f6-c2450e190ece)
+
+
 - 👋 _Hi, I’m @Autinfit (Cuenta empresarial del afiliado (Marcelo Andrés Lam Biaggini))._
 - 👀 _I’m interested in studying some knowledge about computer science and at the same time being focused on the field of artificial intelligence._
 - 💞️ _I’m looking to collaborate on some projects focused on the field of science through compatible programming languages ​​using some tools that I use today._
