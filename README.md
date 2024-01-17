@@ -15,6 +15,8 @@
 
 ## Logros
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MARSFOREVER472&theme=juicyfresh)](https://github.com/MARSFOREVER472/github-profile-trophy)
+
 ### ESPERO QUE CUENTEN CONMIGO EN ESTA INSTANCIA QUE NOS ESPERA!!!!
 
 **Kind regards!!!**
