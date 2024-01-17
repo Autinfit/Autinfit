@@ -15,6 +15,8 @@
 
 ## Logros
 
+_De los que actualmente llevo hasta ahora..._
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Autinfit&theme=juicyfresh)](https://github.com/Autinfit/github-profile-trophy)
 
 ### ESPERO QUE CUENTEN CONMIGO EN ESTA INSTANCIA QUE NOS ESPERA!!!!
