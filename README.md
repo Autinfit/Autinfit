@@ -19,7 +19,7 @@ _De los que actualmente llevo hasta la fecha (En realidad, no son todos los trof
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Autinfit&theme=juicyfresh)](https://github.com/Autinfit/github-profile-trophy)
 
-### ESPERO QUE CUENTEN CONMIGO EN ESTA INSTANCIA QUE NOS ESPERA!!!!
+### ESTO ES UN REPOSITORIO OFICIAL, ASÍ QUE CUENTEN CONMIGO EN ESTA INSTANCIA QUE NOS ESPERA!!!!
 
 **_Kind regards!!!_**
 
