@@ -15,7 +15,7 @@
 
 ## Logros
 
-_De los que actualmente llevo hasta ahora..._
+_De los que actualmente llevo hasta la fecha..._
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Autinfit&theme=juicyfresh)](https://github.com/Autinfit/github-profile-trophy)
 
