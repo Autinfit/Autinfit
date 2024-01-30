@@ -23,7 +23,7 @@
 
 **_Kind regards!!!_**
 
-**_Autinfit_**
+**_Autinfit (Marcelo Andrés Lam Biaggini)_**
 <!---
 Autinfit/Autinfit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
