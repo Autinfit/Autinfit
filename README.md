@@ -16,6 +16,7 @@
  ## Github Stats
 
  ![Autinfit's Stats](https://github-readme-stats.vercel.app/api?username=Autinfit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+ ![Autinfit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Autinfit&theme=vue-dark&hide_border=true)
 
 ## Logros
 
