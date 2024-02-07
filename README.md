@@ -13,6 +13,8 @@
 
  ![image](https://github.com/Autinfit/Autinfit/assets/155406623/914d5d45-731a-4f45-b5e2-2a9171318f20)
 
+ ![Autinfit's Stats](https://github-readme-stats.vercel.app/api?username=Autinfit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## Logros
 
 **_De los que actualmente llevo hasta la fecha hoy en día (En realidad, no son todos los trofeos que en las cuales los voy destacando en específico)..._**
