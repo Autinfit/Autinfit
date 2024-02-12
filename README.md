@@ -10,6 +10,8 @@
 - 👋 **_Hi, I’m @Autinfit (Affiliate business account (Marcelo Andrés Lam Biaggini (also as knowed as MARSFOREVER472))._**
   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/c6325027-9afa-42fc-a826-658ff48b5738)
 - 👀 **_I’m interested in studying some knowledge about computer science and at the same time being focused on the field of the artificial intelligence (AI)._**
+
+  ![image](https://github.com/Autinfit/Autinfit/assets/155406623/ee5ecc61-5adf-4aa8-b106-86f0fff8f1be)
 - 💞️ **_I’m looking to collaborate on some projects focused on the field of science through compatible programming languages ​​using some tools that I use today with my partner._**
 
  ![image](https://github.com/Autinfit/Autinfit/assets/155406623/914d5d45-731a-4f45-b5e2-2a9171318f20)
