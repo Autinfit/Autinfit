@@ -24,7 +24,7 @@
 
 ## Logros
 
-**_De los que actualmente llevo hasta la fecha hoy en día (En realidad, no son todos los trofeos que en las cuales los voy destacando en específico)..._**
+**_De los que actualmente llevo hasta la fecha hoy en día (En realidad, no son todos los trofeos realmente de las cuales los voy destacando en específico)..._**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Autinfit&theme=juicyfresh)](https://github.com/Autinfit/github-profile-trophy)
 
