@@ -33,7 +33,7 @@
 
 ### _PD 2: HA HABIDO INCONVENIENTES ANOCHE DEL DÍA 31 DE ENERO CON ESTA HERRAMIENTA, ASÍ QUE NO PUDE UTILIZAR ESTA CUENTA PARA REALIZAR LOS CAMBIOS ESE MISMO DÍA._
 
-**_Feliz día de San Valentín para todos los enamorados y enamoradas para quienes están trabajando con esta herramienta_**
+**_Kind regards to everyone!!!_**
 
 **_Autinfit (Marcelo Andrés Lam Biaggini)_**
 <!---
