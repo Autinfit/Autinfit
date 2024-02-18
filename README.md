@@ -21,7 +21,7 @@
 
  - 👋 **_Hola, soy @Autinfit (Cuenta comercial afiliado (Marcelo Andrés Lam Biaggini (también conocido como MARSFOREVER472))._**
  - 👀 **_Me interesa estudiar algunos conocimientos sobre informática y al mismo tiempo estar enfocado en el campo de la inteligencia artificial (IA)._**
- - 💞️ Busco colaborar en algunos proyectos enfocados al campo de la ciencia a través de lenguajes de programación compatibles utilizando algunas herramientas que uso hoy con mi pareja.
+ - 💞️ _Busco colaborar en algunos proyectos enfocados al campo de la ciencia a través de lenguajes de programación compatibles utilizando algunas herramientas que uso hoy con mi pareja._
 
  ## Estadísticas de Github
 
