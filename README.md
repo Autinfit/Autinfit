@@ -20,7 +20,7 @@
  Traducido del español:
 
  - 👋 **_Hola, soy @Autinfit (Cuenta comercial afiliado (Marcelo Andrés Lam Biaggini (también conocido como MARSFOREVER472))._**
- - 👀 **Me interesa estudiar algunos conocimientos sobre informática y al mismo tiempo estar enfocado en el campo de la inteligencia artificial (IA).**
+ - 👀 **_Me interesa estudiar algunos conocimientos sobre informática y al mismo tiempo estar enfocado en el campo de la inteligencia artificial (IA)._**
 
  ## Estadísticas de Github
 
