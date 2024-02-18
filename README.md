@@ -19,6 +19,8 @@
 
  Traducido del español:
 
+ - 👋 **_Hola, soy @Autinfit (Cuenta comercial afiliado (Marcelo Andrés Lam Biaggini (también conocido como MARSFOREVER472))._**
+
  ## Estadísticas de Github
 
  ![Autinfit's Stats](https://github-readme-stats.vercel.app/api?username=Autinfit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
