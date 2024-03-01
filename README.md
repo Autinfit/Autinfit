@@ -1,6 +1,9 @@
 # AUTINFIT <3 (OFFICIAL ACCOUNT ORGANIZATION).
 
 ### _VISITOR COUNT CURRENTLY INSIDE THE FILE LISTED HERE!!!_
+
+![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=orange)
+
 ### _CONTADOR DE VISITAS ACTUALMENTE DENTRO DEL ARCHIVO SEÑALADO AQUÍ!!!_
 
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=orange)
