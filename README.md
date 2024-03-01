@@ -42,7 +42,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Autinfit&theme=juicyfresh)](https://github.com/Autinfit/github-profile-trophy)
 
-### _PD 1: ESTO ES UN REPOSITORIO OFICIAL, ASÍ QUE CUENTEN CONMIGO EN ESTA INSTANCIA QUE NOS ESPERA!!!!_
+### _PD: ESTO ES UN REPOSITORIO OFICIAL, ASÍ QUE CUENTEN CONMIGO EN ESTA INSTANCIA QUE NOS ESPERA!!!!_
 
 **_Kind regards to everyone!!!_**
 
