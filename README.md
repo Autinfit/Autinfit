@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=orange)
 
-Traducido del español:
+_Traducido del español:_
 
 ### _CONTADOR DE VISITAS ACTUALMENTE DENTRO DEL ARCHIVO SEÑALADO AQUÍ!!!_
 
