@@ -38,7 +38,7 @@
 
 ## Achievements
 
-Of the ones I currently have to date today (Really, there are not all the trophies that I am highlighting specifically)...
+_Of the ones I currently have to date today (Really, there are not all the trophies that I am highlighting specifically)..._
 
 ** _Traducido del español:_**
 
