@@ -40,6 +40,8 @@
 
 **_Of the ones I currently have to date today (Really, there are not all the trophies that I am highlighting specifically)..._**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Autinfit&theme=juicyfresh)](https://github.com/Autinfit/github-profile-trophy)
+
 **_Traducido del español:_**
 
 ## Logros
