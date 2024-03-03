@@ -38,6 +38,8 @@
 
 ## Achievements
 
+Of the ones I currently have to date today
+
 ** _Traducido del español:_**
 
 ## Logros
