@@ -40,7 +40,7 @@
 
 **_Of the ones I currently have to date today (Really, there are not all the trophies that I am highlighting specifically)..._**
 
-** _Traducido del español:_**
+**_Traducido del español:_**
 
 ## Logros
 
