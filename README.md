@@ -40,7 +40,7 @@
  - **_Arduino: Es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real._**
  - **_GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente un shell de Unix; así como un lenguaje de scripting._**
  - **_C++: Es un lenguaje compilado que fue desarrollado en 1980 por Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje C._**
- - C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA e ISO.
+ - _C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA e ISO._
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
