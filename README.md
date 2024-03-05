@@ -36,7 +36,7 @@
 
  **_Entre las más mencionadas están:_**
 
- - Android: Es un sistema operativo móvil basado en el núcleo Linux y otros software de código abierto.
+ - _Android: Es un sistema operativo móvil basado en el núcleo Linux y otros software de código abierto._
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
