@@ -38,7 +38,7 @@
 
  - **_Android: Es un sistema operativo móvil basado en el núcleo Linux y otros software de código abierto._**
  - **_Arduino: Es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real._**
- - GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente un shell de Unix; así como un lenguaje de scripting.
+ - _GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente un shell de Unix; así como un lenguaje de scripting._
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
