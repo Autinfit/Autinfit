@@ -36,6 +36,8 @@
 
  **_Entre las más mencionadas están:_**
 
+ - Android: Es un sistema operativo móvil basado en el núcleo Linux y otros software de código abierto.
+
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
  ![Autinfit's Stats](https://github-readme-stats.vercel.app/api?username=Autinfit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
