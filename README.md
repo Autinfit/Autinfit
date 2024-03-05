@@ -30,6 +30,8 @@
  - 👀 **_Me interesa estudiar algunos conocimientos sobre informática y al mismo tiempo estar enfocado en el campo de la inteligencia artificial (IA)._**
  - 💞️ **_Busco colaborar en algunos proyectos enfocados al campo de la ciencia a través de lenguajes de programación compatibles utilizando algunas herramientas que uso hoy con mi pareja._**
 
+ ## Herramientas y lenguajes de programación
+
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
  ![Autinfit's Stats](https://github-readme-stats.vercel.app/api?username=Autinfit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
