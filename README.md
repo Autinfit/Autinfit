@@ -45,6 +45,7 @@
  - Dotnet:
  - Figma:
  - Google Cloud:
+ - GIT:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
