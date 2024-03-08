@@ -56,7 +56,7 @@
  - **_MySQL:_**
  - **_Node.js:_**
  - **_Oracle:_**
- - _Python:_
+ - **_Python:_**
  - _Spring Boot:_
  - _Unity:_
 
