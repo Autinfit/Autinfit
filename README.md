@@ -58,7 +58,7 @@
  - _Oracle:_
  - _Python:_
  - _Spring Boot:_
- - Unity:
+ - _Unity:_
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
