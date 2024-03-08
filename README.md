@@ -48,6 +48,7 @@
  - GIT:
  - Java:
  - Kotlin:
+ - Laravel:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
