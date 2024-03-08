@@ -52,7 +52,7 @@
  - **_MariaDB:_**
  - **_Matlab:_**
  - **_MongoDB:_**
- - SQL Server:
+ - _SQL Server:_
  - MySQL:
  - Node.js:
  - Oracle:
