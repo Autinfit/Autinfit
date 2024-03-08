@@ -47,7 +47,7 @@
  - **_Google Cloud: EN INSTANTES..._**
  - **_GIT: EN INSTANTES..._**
  - **_Java: EN INSTANTES..._**
- - **_Kotlin:_**
+ - **_Kotlin: EN INSTANTES..._**
  - **_Laravel:_**
  - **_MariaDB:_**
  - **_Matlab:_**
