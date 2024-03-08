@@ -51,7 +51,7 @@
  - **_Laravel:_**
  - **_MariaDB:_**
  - **_Matlab:_**
- - _MongoDB:_
+ - **_MongoDB:_**
  - SQL Server:
  - MySQL:
  - Node.js:
