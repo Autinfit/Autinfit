@@ -53,6 +53,7 @@
  - Matlab:
  - MongoDB:
  - SQL Server:
+ - MySQL:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
