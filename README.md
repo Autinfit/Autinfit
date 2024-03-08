@@ -48,7 +48,7 @@
  - **_GIT: EN INSTANTES..._**
  - **_Java: EN INSTANTES..._**
  - **_Kotlin: EN INSTANTES..._**
- - **_Laravel:_**
+ - **_Laravel: EN INSTANTES..._**
  - **_MariaDB:_**
  - **_Matlab:_**
  - **_MongoDB:_**
