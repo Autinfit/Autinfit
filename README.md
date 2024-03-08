@@ -48,7 +48,7 @@
  - **_GIT:_**
  - **_Java:_**
  - **_Kotlin:_**
- - Laravel:
+ - _Laravel:_
  - MariaDB:
  - Matlab:
  - MongoDB:
