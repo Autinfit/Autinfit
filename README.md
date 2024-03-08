@@ -53,7 +53,7 @@
  - **_Matlab:_**
  - **_MongoDB:_**
  - **_SQL Server:_**
- - MySQL:
+ - _MySQL:_
  - Node.js:
  - Oracle:
  - Python:
