@@ -57,7 +57,7 @@
  - _Node.js:_
  - _Oracle:_
  - _Python:_
- - Spring Boot:
+ - _Spring Boot:_
  - Unity:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
