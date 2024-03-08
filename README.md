@@ -47,6 +47,7 @@
  - Google Cloud:
  - GIT:
  - Java:
+ - Kotlin:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
