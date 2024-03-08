@@ -49,7 +49,7 @@
  - **_Java:_**
  - **_Kotlin:_**
  - **_Laravel:_**
- - MariaDB:
+ - _MariaDB:_
  - Matlab:
  - MongoDB:
  - SQL Server:
