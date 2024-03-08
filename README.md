@@ -54,7 +54,7 @@
  - **_MongoDB:_**
  - **_SQL Server:_**
  - **_MySQL:_**
- - _Node.js:_
+ - **_Node.js:_**
  - _Oracle:_
  - _Python:_
  - _Spring Boot:_
