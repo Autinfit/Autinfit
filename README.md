@@ -50,7 +50,7 @@
  - **_Kotlin:_**
  - **_Laravel:_**
  - **_MariaDB:_**
- - Matlab:
+ - _Matlab:_
  - MongoDB:
  - SQL Server:
  - MySQL:
