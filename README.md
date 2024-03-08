@@ -46,7 +46,7 @@
  - **_Figma: Es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
  - **_Google Cloud:_**
  - **_GIT:_**
- - Java:
+ - _Java:_
  - Kotlin:
  - Laravel:
  - MariaDB:
