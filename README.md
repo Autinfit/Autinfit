@@ -58,7 +58,7 @@
  - **_Oracle: EN INSTANTES..._**
  - **_Python: EN INSTANTES..._**
  - **_Spring Boot: EN INSTANTES..._**
- - **_Unity:_**
+ - **_Unity: EN INSTANTES..._**
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
