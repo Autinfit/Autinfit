@@ -51,6 +51,7 @@
  - Laravel:
  - MariaDB:
  - Matlab:
+ - MongoDB:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
