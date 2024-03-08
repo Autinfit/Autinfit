@@ -49,6 +49,7 @@
  - Java:
  - Kotlin:
  - Laravel:
+ - MariaDB:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
