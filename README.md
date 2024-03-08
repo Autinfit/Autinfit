@@ -43,6 +43,7 @@
  - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA e ISO._**
  - **_Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
  - Dotnet:
+ - Figma:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
