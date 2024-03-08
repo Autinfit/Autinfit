@@ -44,6 +44,7 @@
  - **_Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
  - Dotnet:
  - Figma:
+ - Google Cloud:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
