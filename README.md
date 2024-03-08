@@ -45,7 +45,7 @@
  - **_Dotnet: NET es una plataforma de código abierto para crear aplicaciones de escritorio, web y móviles que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
  - **_Figma: Es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
  - **_Google Cloud: EN INSTANTES..._**
- - **_GIT:_**
+ - **_GIT: EN INSTANTES..._**
  - **_Java:_**
  - **_Kotlin:_**
  - **_Laravel:_**
