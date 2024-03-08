@@ -50,6 +50,7 @@
  - Kotlin:
  - Laravel:
  - MariaDB:
+ - Matlab:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
