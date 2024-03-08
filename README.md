@@ -56,7 +56,7 @@
  - **_MySQL: EN INSTANTES..._**
  - **_Node.js: EN INSTANTES..._**
  - **_Oracle: EN INSTANTES..._**
- - **_Python:_**
+ - **_Python: EN INSTANTES..._**
  - **_Spring Boot:_**
  - **_Unity:_**
 
