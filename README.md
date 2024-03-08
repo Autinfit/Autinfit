@@ -56,6 +56,7 @@
  - MySQL:
  - Node.js:
  - Oracle:
+ - Python:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
