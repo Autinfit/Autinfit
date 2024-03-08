@@ -47,7 +47,7 @@
  - **_Google Cloud:_**
  - **_GIT:_**
  - **_Java:_**
- - _Kotlin:_
+ - **_Kotlin:_**
  - Laravel:
  - MariaDB:
  - Matlab:
