@@ -55,6 +55,7 @@
  - SQL Server:
  - MySQL:
  - Node.js:
+ - Oracle:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
