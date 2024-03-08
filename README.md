@@ -46,6 +46,7 @@
  - Figma:
  - Google Cloud:
  - GIT:
+ - Java:
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
