@@ -47,7 +47,7 @@
  - **_Google Cloud: Es una plataforma que ha reunido todas las aplicaciones de desarrollo web que Google estaba ofreciendo por separado._**
  - **_GIT: Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente._**
  - **_Java: Es un lenguaje de programación y una plataforma informática que fue comercializada por primera vez en 1995 por Sun Microsystems._**
- - **_Kotlin: EN INSTANTES..._**
+ - **_Kotlin: Es un lenguaje de programación multiplataforma, estáticamente tipado, de alto nivel y propósito general con inferencia de tipos._**
  - **_Laravel: EN INSTANTES..._**
  - **_MariaDB: EN INSTANTES..._**
  - **_Matlab: EN INSTANTES..._**
