@@ -59,7 +59,7 @@
  - **_Python: Es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de todo tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros.​_**
  - **_Spring Boot: Es una herramienta que acelera y simplifica el desarrollo de microservicios y aplicaciones web con Spring Framework gracias a tres funciones principales:_**
    - **_Configuración automática._**
-   - **_Un enfoque de configuración obstinado._**
+   - **_Un enfoque de configuración obstinada._**
    - **_La capacidad de crear aplicaciones autónomas._**
  - **_Unity: Es un motor de videojuego multiplataforma creado por Unity Technologies, anunciado y lanzado por primera vez en junio de 2005 en la Conferencia Mundial de Desarrolladores de Apple como motor de juegos para Mac OS X._**
 
