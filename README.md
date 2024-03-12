@@ -41,6 +41,9 @@
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/6c350480-53f7-4d50-a0c3-7954477f47a0)
 
  - **_Arduino: Es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real._**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/e8a1bc24-0483-44d2-b394-7d9775f962fc)
+
  - **_GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente un shell de Unix; así como un lenguaje de scripting._**
  - **_C++: Es un lenguaje de compilación que fue desarrollado en 1980 por el ingeniero Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje en C._**
  - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA e ISO._**
