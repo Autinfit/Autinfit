@@ -67,7 +67,7 @@
    - **_Configuración automática._**
    - **_Un enfoque de configuración obstinada._**
    - **_La capacidad de crear aplicaciones autónomas._**
- - **_Unity: Es un motor de videojuego multiplataforma creado por la compañía Unity Technologies, en la cuál fue anunciado y lanzado por primera vez en junio de 2005 en la Conferencia Mundial de Desarrolladores de Apple como motor de juegos para Mac OS X._**
+ - **_Unity: Es un motor de videojuego multiplataforma creado por la compañía Unity Technologies, en la cuál fue anunciado y lanzado por primera vez al mismo tiempo  en junio de 2005 en la Conferencia Mundial de Desarrolladores de Apple como motor de juegos para Mac OS X._**
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
 
