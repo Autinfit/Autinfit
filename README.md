@@ -36,7 +36,7 @@
 
  **_Entre las más mencionadas están:_**
 
- - **_Android: Es un sistema operativo móvil basado en el núcleo Linux y otros softwares de código abierto._**
+ - **_Android: Es un sistema operativo móvil basado en el núcleo del sistema operativo Linux y otros softwares de código abierto._**
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/6c350480-53f7-4d50-a0c3-7954477f47a0)
 
