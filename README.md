@@ -48,7 +48,7 @@
  - **_C++: Es un lenguaje de compilación que fue desarrollado en 1980 por el ingeniero Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje en C._**
  - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET (Dotnet), que después fue aprobado como un estándar por la ECMA e ISO._**
  - **_Docker: Es un proyecto de código abierto que permite automatizar el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
- - **_Dotnet: más conocido mediante acrónimo básico como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móviles que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
+ - **_Dotnet: más conocido mediante acrónimo básico como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móvil que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
  - **_Figma: Es un editor de gráficos vectorial y una herramienta para la generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
  - **_Google Cloud: Es una plataforma que ha reunido todas las aplicaciones de desarrollo web que Google estaba ofreciendo por separado._**
  - **_GIT: Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente._**
