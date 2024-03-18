@@ -53,6 +53,9 @@
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/7e6206f1-9207-4bd6-bcf0-c336e7f07b29)
 
  - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET (Dotnet), que después fue aprobado como un estándar por la ECMA e ISO._**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/5185937c-a1ac-4836-a3ce-54a9585ce6a7)
+
  - **_Docker: Es un proyecto de código abierto que permite automatizar el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
  - **_Dotnet: más conocido mediante acrónimo básico como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móvil que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
  - **_Figma: Es un editor de gráficos vectorial y una herramienta para la generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
