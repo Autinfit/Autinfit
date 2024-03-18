@@ -45,6 +45,9 @@
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/e8a1bc24-0483-44d2-b394-7d9775f962fc)
 
  - **_GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente un shell de Unix; así como un lenguaje de scripting._**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/9a924835-d478-4658-bc87-6791102efd5c)
+
  - **_C++: Es un lenguaje de compilación que fue desarrollado en 1980 por el ingeniero Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje en C._**
  - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET (Dotnet), que después fue aprobado como un estándar por la ECMA e ISO._**
  - **_Docker: Es un proyecto de código abierto que permite automatizar el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
