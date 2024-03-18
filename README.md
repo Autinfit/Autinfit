@@ -49,6 +49,9 @@
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/9a924835-d478-4658-bc87-6791102efd5c)
 
  - **_C++: Es un lenguaje de compilación que fue desarrollado en 1980 por el ingeniero Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje en C._**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/7e6206f1-9207-4bd6-bcf0-c336e7f07b29)
+
  - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET (Dotnet), que después fue aprobado como un estándar por la ECMA e ISO._**
  - **_Docker: Es un proyecto de código abierto que permite automatizar el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
  - **_Dotnet: más conocido mediante acrónimo básico como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móvil que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
