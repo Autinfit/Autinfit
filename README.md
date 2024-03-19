@@ -57,6 +57,9 @@
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/5185937c-a1ac-4836-a3ce-54a9585ce6a7)
 
  - **_Docker: Es un proyecto de código abierto que permite automatizar el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/263c00a0-d5dc-4f77-85f4-9b944f1faa3b)
+
  - **_Dotnet: más conocido mediante acrónimo básico como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móvil que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
  - **_Figma: Es un editor de gráficos vectorial y una herramienta para la generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
  - **_Google Cloud: Es una plataforma que ha reunido todas las aplicaciones de desarrollo web que Google estaba ofreciendo por separado._**
