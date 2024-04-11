@@ -39,7 +39,7 @@
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/6c350480-53f7-4d50-a0c3-7954477f47a0)
 
- - **_Arduino: Es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real._**
+ - **_Arduino: Es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura uno o más placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real._**
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/e8a1bc24-0483-44d2-b394-7d9775f962fc)
 
