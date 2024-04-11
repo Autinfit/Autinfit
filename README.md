@@ -75,9 +75,11 @@
  - **_Oracle: Es una compañía especializada en el desarrollo de soluciones locales y de nube._**
  - **_Python: Es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de cualquier tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros.​_**
  - **_Spring Boot: Es una herramienta que acelera y simplifica el desarrollo de microservicios y aplicaciones web con Spring Framework gracias a sus tres funciones principales:_**
+   
    - **_Configuración automática._**
    - **_Un enfoque de configuración obstinada._**
    - **_La capacidad de crear aplicaciones autónomas._**
+     
  - **_Unity: Es un motor de videojuego multiplataformas desarrollado por la compañía Unity Technologies, en la cuál fue anunciado y lanzado por primera vez al mismo tiempo  en junio de 2005 en la Conferencia Mundial de Desarrolladores de Apple como motor de juegos para Mac OS X._**
 
  ## Estadísticas oficiales de mi perfil (Github Stats)
