@@ -51,7 +51,7 @@
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/7e6206f1-9207-4bd6-bcf0-c336e7f07b29)
 
- - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET (Dotnet), que después fue aprobado como un estándar por las normativas ECMA e ISO._**
+ - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET (Dotnet), que después fue aprobado como un estándar bajo las normativas ECMA e ISO._**
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/5185937c-a1ac-4836-a3ce-54a9585ce6a7)
 
