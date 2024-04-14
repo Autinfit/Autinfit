@@ -14,6 +14,8 @@
 
 **_For more info, click here on the following link:_**
 
+https://committers.top/chile
+
 ![image](https://github.com/Autinfit/Autinfit/assets/155406623/1f3584bb-f6fe-47fd-83f6-c2450e190ece)![image](https://github.com/Autinfit/Autinfit/assets/155406623/06897ad9-37c3-4c4d-ba37-009304e33e40)
 
 
