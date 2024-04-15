@@ -24,6 +24,8 @@ https://committers.top/chile
 
 ## RANKING ACTUAL DESTACADO EN LA PÁGINA
 
+Para más información, haz clic aquí en el siguiente link:
+
 ![image](https://github.com/Autinfit/Autinfit/assets/155406623/1f3584bb-f6fe-47fd-83f6-c2450e190ece)![image](https://github.com/Autinfit/Autinfit/assets/155406623/06897ad9-37c3-4c4d-ba37-009304e33e40)
 
 
