@@ -90,7 +90,7 @@ https://committers.top/chile
  - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones en PHP 5, PHP 7 y PHP 8._**
  - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
  - **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio._**
- - **_MongoDB: Es un sistema de base de datos no relacional NoSQL, orientado a documentos y de código abierto._**
+ - **_MongoDB: Es un sistema de base de datos no relacional (NoSQL), orientado a documentos y de código abierto._**
  - **_SQL Server: Es un sistema de gestión de base de datos a nivel relacional, desarrollado por la compañía estadounidense Microsoft._**
  - **_MySQL: Es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo,​ y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web._**
  - **_Node.js: Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación llamado JavaScript, asíncrono, con E/S (Entrada/Salida) de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google._**
