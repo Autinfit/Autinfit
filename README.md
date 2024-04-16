@@ -87,7 +87,7 @@ https://committers.top/chile
  - **_GIT: Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente._**
  - **_Java: Es un lenguaje de programación y además una plataforma informática que fue comercializada por primera vez en 1995 por la compañía Sun Microsystems._**
  - **_Kotlin: Es un lenguaje de programación multiplataformas, estáticamente tipado, de alto nivel y de propósito general con inferencia de tipos._**
- - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5, PHP 7 y PHP 8._**
+ - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones en PHP 5, PHP 7 y PHP 8._**
  - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
  - **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio._**
  - **_MongoDB: Es un sistema de base de datos NoSQL, orientado a documentos y de código abierto._**
