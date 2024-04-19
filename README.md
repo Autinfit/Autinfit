@@ -86,6 +86,9 @@ https://committers.top/chile
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/aeea24e6-9ede-4a2d-9570-8cd8e67a1a57)
 
  - **_Figma: Es un editor de gráficos vectorial y una herramienta para la generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/ea85a864-6420-4ec6-9386-80589a44ebf0)
+
  - **_Google Cloud: Es una plataforma de servicios en la nube que ha reunido todas las aplicaciones de desarrollo web que Google estaba ofreciendo por separado._**
  - **_GIT: Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente._**
  - **_Java: Es un lenguaje de programación y además una plataforma informática que fue comercializada por primera vez en 1995 por la compañía Sun Microsystems._**
