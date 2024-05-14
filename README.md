@@ -146,7 +146,7 @@ https://committers.top/chile
 
 ### MENSAJE IMPORTANTE!!!!!!!!
 
-_Esta cuenta se convertirá definitivamente en una organización, ya que éste es una cuenta de trabajo para un negocio en particular, así que lo voy a incorporar como a inicios de julio en base a lo que les estuve planteando hoy!!!!_
+**_Esta cuenta se convertirá definitivamente en una organización, ya que éste es una cuenta de trabajo para un negocio en particular, así que lo voy a incorporar como a inicios de julio en base a lo que les estuve planteando hoy!!!!_**
 
 **_Kind regards to everyone!!!_**
 
