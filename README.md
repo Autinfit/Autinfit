@@ -94,6 +94,9 @@ https://committers.top/chile
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/6fca8a1d-fee7-4048-b65d-5e80630f10ce)
 
  - **_GIT: Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente._**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/cd74d697-b9ce-49ba-9fb0-71152a0bb936)
+
  - **_Java: Es un lenguaje de programación y además una plataforma informática que fue comercializada por primera vez en 1995 por la compañía Sun Microsystems._**
  - **_Kotlin: Es un lenguaje de programación multiplataformas, estáticamente tipado, de alto nivel y de propósito general con inferencia de tipos._**
  - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones en PHP 5, PHP 7 y PHP 8._**
