@@ -98,6 +98,9 @@ https://committers.top/chile
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/cd74d697-b9ce-49ba-9fb0-71152a0bb936)
 
  - **_Java: Es un lenguaje de programación y además una plataforma informática que fue comercializada por primera vez en 1995 por la compañía Sun Microsystems._**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/92bc42aa-505e-4613-8935-95a82c4f6747)
+
  - **_Kotlin: Es un lenguaje de programación multiplataformas, estáticamente tipado, de alto nivel y de propósito general con inferencia de tipos._**
  - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones en PHP 5, PHP 7 y PHP 8._**
  - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
