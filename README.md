@@ -102,6 +102,9 @@ https://committers.top/chile
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/92bc42aa-505e-4613-8935-95a82c4f6747)
 
  - **_Kotlin: Es un lenguaje de programación multiplataformas, estáticamente tipado, de alto nivel y de propósito general con inferencia de tipos._**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/e789a020-2b54-47b5-80b4-dedd66afc363)
+
  - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones en PHP 5, PHP 7 y PHP 8._**
  - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
  - **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio._**
