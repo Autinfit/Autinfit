@@ -113,7 +113,7 @@ https://committers.top/chile
  - **_MySQL: Es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo,​ y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web._**
  - **_Node.js: Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación llamado JavaScript, asíncrono, con E/S (Entrada/Salida) de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google._**
  - **_Oracle: Es una compañía especializada en el desarrollo de soluciones locales y de nube._**
- - **_Python: Es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de cualquier tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros.​_**
+ - **_Python: Es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de cualquier tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros.​_**
  - **_Spring Boot: Es una herramienta que acelera y simplifica el desarrollo de microservicios y aplicaciones web con Spring Framework gracias a sus tres funciones principales:_**
    
    - **_Configuración automática._**
