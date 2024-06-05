@@ -118,6 +118,9 @@ https://committers.top/chile
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/eb480b66-489d-438b-a307-13dbcbde84a1)
 
  - **_MongoDB: Es un sistema de base de datos no-relacional (NoSQL), orientado a documentos y de código abierto._**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/960ec6bf-84ab-483e-b671-020254c075e9)
+
  - **_SQL Server: Es un sistema de gestión de base de datos a nivel relacional, desarrollado por la compañía estadounidense Microsoft a nivel mundial._**
  - **_MySQL: Es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo,​ y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web._**
  - **_Node.js: Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación llamado JavaScript, asíncrono, con E/S (Entrada/Salida) de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google._**
