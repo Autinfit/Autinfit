@@ -110,6 +110,9 @@ https://committers.top/chile
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/4e78aee1-e5de-4889-a199-522681fe3204)
 
  - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL._**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/76bfa000-6211-44be-8fa7-ff5fcbc8e906)
+
  - **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio._**
  - **_MongoDB: Es un sistema de base de datos no-relacional (NoSQL), orientado a documentos y de código abierto._**
  - **_SQL Server: Es un sistema de gestión de base de datos a nivel relacional, desarrollado por la compañía estadounidense Microsoft a nivel mundial._**
