@@ -131,6 +131,9 @@ https://committers.top/chile
 
  - **_Node.js: Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación llamado JavaScript, asíncrono, con E/S (Entrada/Salida) de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google._**
  - **_Oracle: Es una compañía especializada en el desarrollo de soluciones locales y de nube._**
+
+   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/f0f62749-8efa-4705-9205-e04116e582a1)
+
  - **_Python: Es un lenguaje de programación de alto nivel interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de cualquier tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros.​_**
  - **_Spring Boot: Es una herramienta que acelera y simplifica el desarrollo de microservicios y aplicaciones web con Spring Framework gracias a sus tres funciones principales:_**
    
