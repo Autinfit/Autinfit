@@ -144,7 +144,7 @@ https://committers.top/chile
  - **_Spring Boot: Es una herramienta que acelera y simplifica el desarrollo de microservicios y aplicaciones web con Spring Framework gracias a sus tres funciones principales:_**
    
    - **_Configuración automática._**
-   - **_Un enfoque de configuración obstinada._**
+   - **_Enfoque de configuración obstinada._**
    - **_Capacidad de crear aplicaciones autónomas._**
   
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/1436b1b0-72b4-4acb-b1ad-81ee288c4435)
