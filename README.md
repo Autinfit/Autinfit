@@ -109,7 +109,7 @@ https://committers.top/chile
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/4e78aee1-e5de-4889-a199-522681fe3204)
 
- - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia profesional GPL._**
+ - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia profesional llamado GPL._**
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/76bfa000-6211-44be-8fa7-ff5fcbc8e906)
 
