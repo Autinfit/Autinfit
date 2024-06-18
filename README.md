@@ -125,7 +125,7 @@ https://committers.top/chile
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/8482e04b-1454-410e-8dd0-c059aa053463)
 
- - **_MySQL: Es un sistema de gestión de bases de datos relacionales desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo,​ y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web._**
+ - **_MySQL: Es un sistema de gestión de bases de datos relacionales desarrollado bajo licencia dual: Licencia pública general/Licencia comercial desarrollado por Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo,​ y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web._**
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/551aca67-9614-436e-a267-89dddad58229)
 
