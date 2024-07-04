@@ -6,7 +6,7 @@
 
 **_Traducido del español:_**
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F78000&vCenter=true&random=false&width=1200&lines=CONTADOR+DE+VISITAS+ACTUALMENTE+DENTRO+DEL+ARCHIVO+SE%C3%91ALADO+AQU%C3%8D!!!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F79000&vCenter=true&random=false&width=1200&lines=CONTADOR+DE+VISITAS+ACTUALMENTE+DENTRO+DEL+ARCHIVO+SE%C3%91ALADO+AQU%C3%8D!!!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=orange)
 
