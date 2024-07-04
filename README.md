@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F74000&center=true&vCenter=true&random=false&width=1000&height=40&lines=WELCOME+TO+MY+BUSINESS+PROFILE+TO+EVERYONE!)](https://git.io/typing-svg)
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F78000&vCenter=true&random=false&width=1000&lines=VISITOR+COUNT+CURRENTLY+INSIDE+THE+FILE+LISTED+HERE!!!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F79000&vCenter=true&random=false&width=1000&lines=VISITOR+COUNT+CURRENTLY+INSIDE+THE+FILE+LISTED+HERE!!!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=orange)
 
