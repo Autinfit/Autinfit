@@ -28,7 +28,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/chile/Autinfit.svg)](https://user-badge.committers.top/chile/Autinfit)
 
-_https://committers.top/chile_
+**_https://committers.top/chile_**
 
 **_Actualmente estoy en el puesto n° 6 de la página mencionada anteriormente (Commits)..._**
 
