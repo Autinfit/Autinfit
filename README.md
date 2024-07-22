@@ -14,7 +14,7 @@
 
 **_For more information, click here on this following link:_**
 
-_https://committers.top/chile_
+**_https://committers.top/chile_**
 
 [![committers.top badge](https://user-badge.committers.top/chile/Autinfit.svg)](https://user-badge.committers.top/chile/Autinfit)
 
