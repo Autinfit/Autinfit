@@ -176,7 +176,7 @@
 
 **_Traducido del español:_**
 
-## _Logros_
+## **_Logros_**
 
 **_De los que actualmente llevo hasta la fecha hoy en día (En realidad, no son todos los trofeos realmente de las cuales los voy destacando en específico)..._**
 
