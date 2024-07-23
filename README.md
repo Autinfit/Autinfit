@@ -156,7 +156,7 @@
 
  ## **_Estadísticas oficiales de mi perfil (Github Stats)_**
 
-**_Estadísticas generales (Official Stats):_**
+### **_Estadísticas generales (Official Stats):_**
 
  ![Autinfit's Stats](https://github-readme-stats.vercel.app/api?username=Autinfit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
