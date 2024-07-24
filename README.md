@@ -168,7 +168,7 @@
  
  ![Autinfit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Autinfit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## Achievements
+## _Achievements_
 
 **_Of the ones I currently have to date today (Really, there are not all the trophies that I am highlighting specifically)..._**
 
