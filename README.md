@@ -32,7 +32,7 @@
 
 **_Actualmente estoy en el puesto n° 5 de la página mencionada anteriormente (Commits)..._**
 
-(https://github.com/Autinfit/Autinfit/assets/155406623/06897ad9-37c3-4c4d-ba37-009304e33e40)
+
 
 
 
