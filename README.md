@@ -44,7 +44,6 @@
 - 💞️ **_I’m looking to collaborate on some projects focused on the field of science through compatible programming languages ​​using some tools that I use today with my partner._**
 
 
-
  **_Traducido del español:_**
 
  - 👋 **_Hola, soy @Autinfit (Cuenta comercial afiliado (Marcelo Andrés Lam Biaggini (también conocido como MARSFOREVER472))._**
