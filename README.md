@@ -148,7 +148,7 @@
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/243aca30-5189-4a6f-99ab-157647223b61)
 
- ## **_Estadísticas oficiales de mi perfil (Github Stats)_**
+## **_Estadísticas oficiales de mi perfil (Github Stats)_**
 
 ### **_Estadísticas generales (Official Stats):_**
 
