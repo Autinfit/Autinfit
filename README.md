@@ -67,7 +67,7 @@
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/5185937c-a1ac-4836-a3ce-54a9585ce6a7)
 
- - **_Docker: Es un proyecto de código abierto que permite automatizar el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
+ - **_Docker: Es un herramienta de código abierto que permite automatizar el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
 
    ![image](https://github.com/Autinfit/Autinfit/assets/155406623/263c00a0-d5dc-4f77-85f4-9b944f1faa3b)
 
