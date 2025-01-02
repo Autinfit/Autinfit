@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MARSFOREVER472&color=orange)
 
-## **_CURRENT RANKING FEATURED ON THE PAGE_**
+## **_CURRENT RANKING FEATURED ON THIS PAGE_**
 
 **_For more information, click here on this following link:_**
 
