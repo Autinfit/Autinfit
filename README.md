@@ -137,7 +137,7 @@
    - **_Enfoque de configuración obstinada._**
    - **_Capacidad de crear aplicaciones autónomas._**
   
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/1436b1b0-72b4-4acb-b1ad-81ee288c4435)
+   
      
  - **_Unity: Es un motor de videojuego multiplataformas desarrollado por la compañía Unity Technologies, en la cuál fue anunciado y lanzado por primera vez al mismo tiempo en junio de 2005 en la Conferencia Mundial de Desarrolladores de Apple como motor de videojuegos para Mac OS X._**
 
