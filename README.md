@@ -121,7 +121,7 @@
 
  - **_Node.js: Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación llamado JavaScript, asíncrono, con E/S (Entrada/Salida) de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/500483da-f8bb-4545-aea1-cd10445e4886)
+   
 
  - **_Oracle: Es una compañía especializada en el desarrollo de soluciones locales y de nube._**
 
