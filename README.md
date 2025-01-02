@@ -22,7 +22,7 @@
 
 **_Traducido del español:_**
 
-## **_RANKING ACTUAL DESTACADO EN LA PÁGINA_**
+## **_RANKING ACTUAL DESTACADO EN ESTA PÁGINA_**
 
 **_Para más información, haz clic aquí en el siguiente link:_**
 
