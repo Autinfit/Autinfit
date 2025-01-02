@@ -69,7 +69,7 @@
 
  - **_Docker: Es una herramienta de código abierto que permite automatizar el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/263c00a0-d5dc-4f77-85f4-9b944f1faa3b)
+   
 
  - **_Dotnet: más conocido mediante un acrónimo básico como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móvil que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
 
