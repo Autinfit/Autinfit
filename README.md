@@ -73,7 +73,7 @@
 
  - **_Dotnet: más conocido mediante un acrónimo básico como .NET, es una plataforma de código abierto para crear aplicaciones de escritorio, web y móvil que se pueden ejecutar de forma nativa en cualquier sistema operativo._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/aeea24e6-9ede-4a2d-9570-8cd8e67a1a57)
+   
 
  - **_Figma: Es un editor de gráficos vectorial y una herramienta para la generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
 
