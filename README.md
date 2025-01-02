@@ -101,7 +101,7 @@
 
  - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia profesional llamado GPL._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/76bfa000-6211-44be-8fa7-ff5fcbc8e906)
+   
 
  - **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio._**
 
