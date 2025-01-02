@@ -53,7 +53,7 @@
 
  - **_Arduino: Es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura uno o más placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/e8a1bc24-0483-44d2-b394-7d9775f962fc)
+   
 
  - **_GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente un shell de Unix; así como un lenguaje de scripting._**
 
