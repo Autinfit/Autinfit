@@ -57,7 +57,7 @@
 
  - **_GNU/Bash: Es una interfaz de usuario de línea de comandos popular, específicamente un shell de Unix; así como un lenguaje de scripting._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/9a924835-d478-4658-bc87-6791102efd5c)
+   
 
  - **_C++: Es un lenguaje de compilación que fue desarrollado en 1980 por el ingeniero escandinavo Bjarne Stroustroup en los laboratorios AT&T como una extensión orientada a objetos del lenguaje C._**
 
