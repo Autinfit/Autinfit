@@ -105,7 +105,7 @@
 
  - **_Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado con un lenguaje de programación propio._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/eb480b66-489d-438b-a307-13dbcbde84a1)
+   
 
  - **_MongoDB: Es un sistema de base de datos no-relacional (NoSQL), orientado a documentos y de código abierto._**
 
