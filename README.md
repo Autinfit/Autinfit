@@ -109,7 +109,7 @@
 
  - **_MongoDB: Es un sistema de base de datos no-relacional (NoSQL), orientado a documentos y de código abierto._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/960ec6bf-84ab-483e-b671-020254c075e9)
+   
 
  - **_SQL Server: Es un sistema de gestión de base de datos a nivel relacional, desarrollado por la compañía estadounidense Microsoft a nivel mundial._**
 
