@@ -129,7 +129,7 @@
 
  - **_Python: Es un lenguaje de programación de alto nivel interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de cualquier tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros.​_**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/2d76c03d-2763-463a-a240-af672596dfde)
+   
 
  - **_Spring Boot: Es una herramienta que acelera y simplifica el desarrollo de microservicios y aplicaciones web con Spring Framework gracias a sus tres funciones principales:_**
    
