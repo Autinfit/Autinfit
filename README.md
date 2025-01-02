@@ -81,7 +81,7 @@
 
  - **_Google Cloud: Es una plataforma de servicios en la nube que ha reunido todas las aplicaciones de desarrollo web en las que Google estaba ofreciendo por separado._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/6fca8a1d-fee7-4048-b65d-5e80630f10ce)
+   
 
  - **_GIT: Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente._**
 
