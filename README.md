@@ -117,7 +117,7 @@
 
  - **_MySQL: Es un sistema de gestión de bases de datos relacionales desarrollado bajo licencia dual: Licencia pública general/Licencia comercial desarrollado por la compañía Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo,​ y una de las más populares en general junto a Oracle y Microsoft SQL Server, todo para entornos de desarrollo web._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/551aca67-9614-436e-a267-89dddad58229)
+   
 
  - **_Node.js: Es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación llamado JavaScript, asíncrono, con E/S (Entrada/Salida) de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google._**
 
