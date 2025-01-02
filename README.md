@@ -61,7 +61,7 @@
 
  - **_C++: Es un lenguaje de compilación que fue desarrollado en 1980 por el ingeniero escandinavo Bjarne Stroustroup en los laboratorios AT&T como una extensión orientada a objetos del lenguaje C._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/7e6206f1-9207-4bd6-bcf0-c336e7f07b29)
+   
 
  - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET (Dotnet), que después fue aprobado como un estándar bajo las normativas ECMA e ISO._**
 
