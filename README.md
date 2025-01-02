@@ -65,7 +65,7 @@
 
  - **_C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET (Dotnet), que después fue aprobado como un estándar bajo las normativas ECMA e ISO._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/5185937c-a1ac-4836-a3ce-54a9585ce6a7)
+   
 
  - **_Docker: Es una herramienta de código abierto que permite automatizar el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​_**
 
