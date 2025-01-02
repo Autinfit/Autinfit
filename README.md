@@ -30,7 +30,7 @@
 
 **_https://committers.top/chile_**
 
-**_Actualmente estoy en el puesto n° 6 de la página mencionada anteriormente (Commits)..._**
+**_Actualmente estoy en el puesto n° 7 de la página mencionada anteriormente (Commits)..._**
 
 - 👋 **_Hi, I’m @Autinfit (Affiliate business account (Marcelo Andrés Lam Biaggini (also as knowed as MARSFOREVER472))._**  
 - 👀 **_I’m interested in studying some knowledge about computer science and at the same time being focused on the field of the artificial intelligence (AI)._**
