@@ -24,7 +24,7 @@
 
 ## **_RANKING ACTUAL DESTACADO EN ESTA PÁGINA_**
 
-**_Para más información, haz clic aquí en el siguiente link:_**
+**_Para más información, haz clic aquí en el siguiente enlace:_**
 
 [![committers.top badge](https://user-badge.committers.top/chile/Autinfit.svg)](https://user-badge.committers.top/chile/Autinfit)
 
