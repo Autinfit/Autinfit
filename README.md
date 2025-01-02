@@ -125,7 +125,7 @@
 
  - **_Oracle: Es una compañía especializada en el desarrollo de soluciones locales y de nube._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/f0f62749-8efa-4705-9205-e04116e582a1)
+   
 
  - **_Python: Es un lenguaje de programación de alto nivel interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de cualquier tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros.​_**
 
