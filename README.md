@@ -93,7 +93,7 @@
 
  - **_Kotlin: Es un lenguaje de programación Multiplataformas, estáticamente tipado, de alto nivel y de propósito general con inferencia de tipos._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/e789a020-2b54-47b5-80b4-dedd66afc363)
+   
 
  - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones tales como PHP 5, PHP 7 y PHP 8._**
 
