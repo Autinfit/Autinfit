@@ -97,7 +97,7 @@
 
  - **_Laravel: Es un framework de código abierto para desarrollar aplicaciones y servicios web mediante versiones tales como PHP 5, PHP 7 y PHP 8._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/4e78aee1-e5de-4889-a199-522681fe3204)
+   
 
  - **_MariaDB: Es un sistema de gestión de bases de datos derivado de MySQL con licencia profesional llamado GPL._**
 
