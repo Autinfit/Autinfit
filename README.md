@@ -77,7 +77,7 @@
 
  - **_Figma: Es un editor de gráficos vectorial y una herramienta para la generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/ea85a864-6420-4ec6-9386-80589a44ebf0)
+   
 
  - **_Google Cloud: Es una plataforma de servicios en la nube que ha reunido todas las aplicaciones de desarrollo web en las que Google estaba ofreciendo por separado._**
 
