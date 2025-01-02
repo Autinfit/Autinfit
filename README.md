@@ -89,7 +89,7 @@
 
  - **_Java: Es un lenguaje de programación y además una plataforma informática que fue comercializada por primera vez en 1995 por la compañía Sun Microsystems._**
 
-   ![image](https://github.com/Autinfit/Autinfit/assets/155406623/92bc42aa-505e-4613-8935-95a82c4f6747)
+   
 
  - **_Kotlin: Es un lenguaje de programación Multiplataformas, estáticamente tipado, de alto nivel y de propósito general con inferencia de tipos._**
 
